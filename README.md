@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: experimenting with life everyday.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishannachiketa&layout=compact)](https://github.com/ishannachiketa/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishannachiketa&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=ishannachiketa&&show_icons=true&title_color=58a6ff&icon_color=1f6feb&text_color=161b22&bg_color=ffffff">
 
 
